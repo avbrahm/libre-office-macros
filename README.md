@@ -1,0 +1,1 @@
+SumByColor - A libre office calc macro that takes as input a range of cells and a reference cell. The function scans a range of cells to find ones that match the reference cell's background color. Each cell with a matching color then has its value extracted and added to a sum. Useful for color coded sheets.
